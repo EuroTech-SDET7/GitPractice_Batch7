@@ -1,6 +1,10 @@
 package Bireysel;
 
 public class Fatih_A_Task2 {
+task2(4);
+task2("Nilgun Hnm);
+task2("Elif Hnm","TurgayBey")
+
 
     public static void main(String[] args) {
         System.out.println("Lets practice Method Overloading");
