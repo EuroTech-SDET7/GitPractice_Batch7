@@ -1,6 +1,8 @@
 package GrupCalismasi;
 
 public class Team1 {
+   
+
     public static void main(String[] args) {
        //Ersan
         System.out.println("Ersan Uploaded these code");
@@ -16,6 +18,10 @@ public class Team1 {
         System.out.println("Soru yazıldı mı?);
         System.out.println("Çözüme nasıl ulaşıcaz.");
         System.out.println("Betül");
+        
+         // esra selbst gemacht
+    public static void main(String[] args) {
+        System.out.println("test basariyla yapildi");
       
 
 
