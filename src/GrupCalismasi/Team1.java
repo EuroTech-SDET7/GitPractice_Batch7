@@ -2,10 +2,6 @@ package GrupCalismasi;
 
 public class Team1 {
 
- 
-
-   
-
     public static void main(String[] args) {
        //Ersan
         System.out.println("Ersan Uploaded these code");
@@ -23,14 +19,12 @@ public class Team1 {
         System.out.println("Betül");
         
          // esra selbst gemacht
-    public static void main(String[] args) {
+    
         System.out.println("test basariyla yapildi");
       
-  public static void main(String[] args) {
+ 
         System.out.println("team1");
         System.out.println("grup calismasi");
         System.out.println("sdet");
-
-
     }
 }
