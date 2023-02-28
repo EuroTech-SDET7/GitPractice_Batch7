@@ -6,6 +6,7 @@ public class Group5_Test {
         System.out.println("Hallo");
         System.out.println(" alles paletti ");
         System.out.println("whats up");
+        //ok
         //Burasi ortak dosyamiz
     }
 }
