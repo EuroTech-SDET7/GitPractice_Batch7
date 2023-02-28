@@ -10,7 +10,7 @@ public class Group5_Test {
 
 
 
-        int x=10;
+        int x=10455;
         int y=5;
     }
 }
