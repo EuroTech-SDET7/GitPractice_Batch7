@@ -2,6 +2,9 @@ package GrupCalismasi;
 
 public class Team3 {
     // Calisma
-    // what can i do sometimes "tr"
+    //1234
+    // gut arbeit
+    //haette ich mehr gearbeitet
+    //yeni bir ekleme
 
 }
